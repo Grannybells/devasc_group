@@ -1,2 +1,3 @@
 # devasc_group
-This is sample repository
+This is a sample repository
+
